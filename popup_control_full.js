@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://hoclaiotogiaretphcm.blogspot.com/' target='_blank'><img src='https://3.bp.blogspot.com/-9Wgc8mO9Bk4/VzAzkW9Li6I/AAAAAAAAAHY/PtzkYxQuFPoc5bfLFoAebdcKQALGDDVagCLcB/s400/Tao-New.jpg' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://hoclaiotogiaretphcm.blogspot.com/' target='_blank'><img src='https://3.bp.blogspot.com/-9Wgc8mO9Bk4/VzAzkW9Li6I/AAAAAAAAAHY/PtzkYxQuFPoc5bfLFoAebdcKQALGDDVagCLcB/s400/Tao-New.jpg' width='500px'/>Đào tạo lái xe uy tín tại tp.hcm</a>. học lái xe giá rẻ tại tp.hcm. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
